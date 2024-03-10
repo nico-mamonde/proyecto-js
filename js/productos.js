@@ -13,8 +13,8 @@ const productos = [
     {id:12, tipo: "Short", nombre: "Short Shining in the dark", precio: 2200, foto: "./media/short shining.jpg"},
     {id:13, tipo: "Short", nombre: "Short Notte", precio: 2000, foto: "./media/short notte.jpg"},
     {id:14, tipo: "Biker", nombre: "Biker black", precio: 2300, foto: "./media/biker black.jpg"},
-    {id:15, tipo: "Accesorio", nombre: "Lentes Roling Stone", precio: 2300, foto: "./media/lentes1.jpg"},
-    {id:16, tipo: "Accesorio", nombre: "Lentes Ray-ban ", precio: 2400, foto: "./media/lentes2.jpg"},
+    {id:15, tipo: "Accesorio", nombre: "Lentes Roling Stone", precio: 6300, foto: "./media/lentes1.jpg"},
+    {id:16, tipo: "Accesorio", nombre: "Lentes Ray-ban ", precio: 8400, foto: "./media/lentes2.jpg"},
     {id:17, tipo: "Accesorio", nombre: "Gorra rolling stone", precio: 1800, foto: "./media/gorra-rolling stone.jpg"},
     {id:18, tipo: "Accesorio", nombre: "Gorra guns and rose", precio: 1800, foto: "./media/guns and rose -gorra.jpg"},
 
