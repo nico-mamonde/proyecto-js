@@ -4,7 +4,6 @@ let carrito = cargarCarrito();
 let montoTotalCompra = calcularTotalCarrito();
 let cantidadTotalCompra = carrito.length;
 
-//dentro del document ready agrego todo el codigo generado por dom
 $(document).ready(function () {
   //creacion de la seccion carrito mediante jquery y dom
   $("#section-carrito").append(`<div> 
